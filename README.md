@@ -1,5 +1,5 @@
 # Git-testing
 <br>
-Author - Kausar Babau 
+Author - Md. Kausar Babau 
 <br>
-I am just testing git & github.
+I am just testing git & github. 

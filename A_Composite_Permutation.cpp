@@ -9,7 +9,7 @@ using namespace __gnu_pbds;
 #define vl vector<ll>
 #define cy cout<<"YES"<<nl
 #define all(v) (v).begin(),(v).end()
-#define si(v) (ll)(v).size()
+#define si(v) (ll)(v).size() 
 #define pb push_back
 const ll inf = 1e9;
 const ll AVIR = 1e18;
@@ -42,7 +42,6 @@ void solve() {
     }
     if(n&1)
     {
-        // cout<<n-1<<' ';
         for(ll i=n-1;i>=3;i--)
         cout<<i<<' ';
 
