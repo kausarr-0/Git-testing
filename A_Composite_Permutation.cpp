@@ -8,7 +8,6 @@ using namespace __gnu_pbds;
 #define ll long long
 #define vl vector<ll>
 #define cy cout<<"YES"<<nl
-#define cn cout<<"NO"<<nl
 #define all(v) (v).begin(),(v).end()
 #define si(v) (ll)(v).size()
 #define pb push_back
